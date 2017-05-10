@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="tip_15">15% Tip</string>
+    <string name="tip_20">20% Tip</string>
+    <string name="tip_hint">Bill Amount</string>
+
+    <!--TODO: add content description string for the rest of the views on activity_main.xml-->
+    <string name="description_20_percent">20 percent button</string>
+</resources>
