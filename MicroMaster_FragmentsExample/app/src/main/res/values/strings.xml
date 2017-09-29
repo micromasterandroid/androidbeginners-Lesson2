@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FragmentsExample</string>
+    <string name="show_second_fragment">Show Second Fragment</string>
+    <string name="show_first_fragment">Show First Fragment</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="i_am_fragment_1">I am Fragment 1</string>
+    <string name="i_am_fragment_2">I am Fragment 2</string>
 </resources>
