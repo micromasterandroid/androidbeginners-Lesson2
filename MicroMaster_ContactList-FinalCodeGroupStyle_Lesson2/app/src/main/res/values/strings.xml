@@ -9,5 +9,6 @@
 
     <!--TODO: add content description string for the rest of the views on activity_main.xml-->
     <string name="description_input_name">User name</string>
+    <string name="contact_profile_image">Contact Profile Image</string>
 
 </resources>

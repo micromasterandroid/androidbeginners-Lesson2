@@ -25,10 +25,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             initialTotalValue = savedInstanceState.getString("totalAmount");
         }
 
-        input_billAmount = (EditText) findViewById(R.id.input_billAmount);
-        buttonTip15 = (Button) findViewById(R.id.button_tip_15);
-        buttonTip20 = (Button) findViewById(R.id.button_tip_20);
-        totalAmount = (TextView) findViewById(R.id.totalAmount);
+        input_billAmount = findViewById(R.id.input_billAmount);
+        buttonTip15 = findViewById(R.id.button_tip_15);
+        buttonTip20 = findViewById(R.id.button_tip_20);
+        totalAmount = findViewById(R.id.totalAmount);
 
         buttonTip15.setOnClickListener(this);
         buttonTip20.setOnClickListener(this);

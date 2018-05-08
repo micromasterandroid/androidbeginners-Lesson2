@@ -7,6 +7,7 @@
     android:layout_height="wrap_content"
     android:layout_marginBottom="@dimen/activity_vertical_margin"
     android:clickable="true"
+    android:focusable="true"
     android:foreground="?android:attr/selectableItemBackground">
 
     <RelativeLayout
@@ -21,7 +22,7 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             app:srcCompat="@mipmap/ic_launcher"
-             />
+             android:contentDescription="@string/movie_item_image"/>
 
         <TextView
             android:id="@+id/tvTitle"
@@ -51,6 +52,6 @@
             tools:text="Captain America Overview"
             />
 
-    </RelativeLayout>s
+    </RelativeLayout>
 
 </android.support.v7.widget.CardView>

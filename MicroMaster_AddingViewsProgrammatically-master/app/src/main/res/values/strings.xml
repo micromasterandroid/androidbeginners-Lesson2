@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Adding Views Programmatically</string>
+    <string name="button">Button</string>
+    <string name ="text_view_count">Text View %i</string>
 </resources>

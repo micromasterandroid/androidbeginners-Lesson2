@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
         contTextView = 0;
 
-        final LinearLayout linearLayoutList = (LinearLayout) findViewById(R.id.linear_layout_list);
-        final Button button = (Button) findViewById(R.id.button_add);
+        final LinearLayout linearLayoutList = findViewById(R.id.linear_layout_list);
+        final Button button = findViewById(R.id.button_add);
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 changeBackgroundColor(linearLayoutList);
@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void addNewTextView(LinearLayout linearLayout) {
         TextView textView = new TextView(this);
-        textView.setText("Text View" + contTextView++);
+        textView.setText(getString(R.string.text_view_count,contTextView++));
         textView.setTextSize(TypedValue.COMPLEX_UNIT_SP, 20);
         linearLayout.addView(textView);
     }

@@ -32,7 +32,8 @@
                 app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed"
                 android:scaleType="centerCrop"
                 app:layout_collapseMode="parallax"
-                android:minHeight="@dimen/activity_detail_backdrop_min_height"/>
+                android:minHeight="@dimen/activity_detail_backdrop_min_height"
+                android:contentDescription="@string/movie_backdrop_image"/>
 
 
             <android.support.v7.widget.Toolbar

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AddingViewsProgrammatically.iml" filepath="$PROJECT_DIR$/AddingViewsProgrammatically.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\MicroMaster_AddingViewsProgrammatically-master\AddingViewsProgrammatically.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\MicroMaster_AddingViewsProgrammatically-master\AddingViewsProgrammatically.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroMaster_AddingViewsProgrammatically-master.iml" filepath="$PROJECT_DIR$/MicroMaster_AddingViewsProgrammatically-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\MicroMaster_AddingViewsProgrammatically-master\app\app.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\MicroMaster_AddingViewsProgrammatically-master\app\app.iml" />
     </modules>
   </component>
 </project>

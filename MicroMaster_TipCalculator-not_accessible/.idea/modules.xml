@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TipCalculator.iml" filepath="$PROJECT_DIR$/TipCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicroMaster_TipCalculator-not_accessible.iml" filepath="$PROJECT_DIR$/MicroMaster_TipCalculator-not_accessible.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\MicroMaster_TipCalculator-not_accessible\TipCalculator.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\MicroMaster_TipCalculator-not_accessible\TipCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\MicroMaster_TipCalculator-not_accessible\app\app.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\MicroMaster_TipCalculator-not_accessible\app\app.iml" />
     </modules>
   </component>
 </project>

@@ -102,4 +102,9 @@
         "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
         "when a user tries to pick up one of cards.\n\n"
     </string>
+    <string name="movie_backdrop_image">Movie Backdrop Image</string>
+    <string name="movie_item_image">Movie Item Image</string>
+    <string name="header_image">Header Image</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="android_studio_android_com">android.studio@android.com</string>
 </resources>

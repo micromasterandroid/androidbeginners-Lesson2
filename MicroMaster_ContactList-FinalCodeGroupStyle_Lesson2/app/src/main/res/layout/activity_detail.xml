@@ -15,7 +15,8 @@
         android:layout_toEndOf="@+id/textView4"
         android:layout_toRightOf="@+id/textView4"
         android:layout_marginLeft="20dp"
-        tools:text="TextView" />
+        tools:text="TextView"
+        android:layout_marginStart="20dp" />
 
     <TextView
         android:id="@+id/textView4"
@@ -32,7 +33,8 @@
         android:layout_marginTop="30dp"
         android:layout_alignLeft="@+id/textView4"
         android:layout_alignStart="@+id/textView4"
-        app:srcCompat="@drawable/contact" />
+        app:srcCompat="@drawable/contact"
+        android:contentDescription="@string/contact_profile_image"/>
 
     <TextView
         android:id="@+id/textView3"
@@ -49,7 +51,8 @@
         style="@style/PersonalInformation"
         tools:text="Sam"
         android:layout_alignTop="@+id/imageView"
-        android:layout_toRightOf="@+id/imageView" />
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView" />
 
     <TextView
         android:id="@+id/contact_last_name"
@@ -59,14 +62,15 @@
         tools:text="Smith"
         android:layout_below="@+id/contact_name"
         android:layout_toRightOf="@+id/imageView"
-        android:layout_marginTop="10dp"/>
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@+id/imageView" />
 
     <TextView
         android:id="@+id/textViewPhoneNumber"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         style="@style/PersonalInformation_section2"
-        android:text="TextView"
+        tools:text="TextView"
         android:layout_alignBaseline="@+id/textView4"
         android:layout_alignBottom="@+id/textView4"
         android:layout_alignLeft="@+id/textViewEmail"

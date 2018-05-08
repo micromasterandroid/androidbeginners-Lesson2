@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         //declares the fragment that will be shown
         Fragment fragment;
         //finds the button to change the label
-        Button button = (Button)findViewById(view.getId());
+        Button button = findViewById(view.getId());
         //decides if we have to show the first or the second fragment
         //then creates the fragment and changes the button label
         if(!show_frag1){

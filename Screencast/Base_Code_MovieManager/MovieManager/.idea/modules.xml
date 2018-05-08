@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MovieManager.iml" filepath="$PROJECT_DIR$/MovieManager.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\Screencast\Base_Code_MovieManager\MovieManager\MovieManager.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\Screencast\Base_Code_MovieManager\MovieManager\MovieManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\Screencast\Base_Code_MovieManager\MovieManager\app\app.iml" filepath="C:\Users\EEVGG\Desktop\Projects\androidbeginners-Lesson2\Screencast\Base_Code_MovieManager\MovieManager\app\app.iml" />
     </modules>
   </component>
 </project>
